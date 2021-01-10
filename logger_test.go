@@ -2,7 +2,7 @@ package log
 
 import (
 	"bytes"
-	"github.com/MuratSs/BixGo/assert"
+	"github.com/MuratSs/assert"
 	"net"
 	"strings"
 	"sync"
