@@ -2,7 +2,7 @@ package log
 
 import (
 	"errors"
-	"github.com/MuratSs/BixGo/assert"
+	"github.com/MuratSs/assert"
 	"reflect"
 	"testing"
 )
